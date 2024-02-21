@@ -1,6 +1,5 @@
 /* Jodie Jackson
  * Operating System
- * Lab 1
  * Copy Function 
 */
 #include <stdio.h>
